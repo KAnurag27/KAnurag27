@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 SQL Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Analysis on Coronavirus (COVID-19) Deaths</b>
+  - [Using Microsoft SQL Server v19.1](https://github.com/KAnurag27/COVID-PortfolioProject.git)
 
 <h2>👨‍💻 Power BI Projects:</h2>
 

@@ -1,20 +1,9 @@
 <h1>Hi, I'm Anurag! <br/><a href="https://www.linkedin.com/in/anuragkamboj/">Data Analyst</a>
 
-<h2>👨‍💻 SQL Projects:</h2>
+<h2>👨‍💻 Data Analysis & Visualization Projects:</h2>
 
-- <b>Data Analysis on Coronavirus (COVID-19) Deaths</b>
-  - [Using Microsoft SQL Server v19.1](https://github.com/KAnurag27/COVID-PortfolioProject.git)
-
-<h2>👨‍💻 Power BI Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>👨‍💻 Tableau Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
- 
+- <b>[Coronavirus (COVID-19) Deaths](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b>
+   
 <h2>👨‍💻 Certifications</h2>
 
 - <b>Analyzing and Visualizing Data with Microsoft Power BI</b>

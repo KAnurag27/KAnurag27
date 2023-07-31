@@ -14,6 +14,18 @@
   - [Certified by Macquarie University](https://drive.google.com/file/d/1u7FH7tCfFKiEHxN_KJM_JbyPj1Gnsgc7/view?usp=sharing)
 - <b>Global Finance & Business Management | Virtual Experience Program</b>
   - [Certified by JPMorgan Chase & Co.](https://drive.google.com/file/d/1VzsrCBdaCasHVF0UTSd66NUTufZELGPF/view?usp=sharing)
+ 
+<h2>👨‍💻 Internships</h2>
+
+- <b>Mi</b>
+  - [Certified by LinkedIn]
+ 
+<h2>👨‍💻 Volunteering</h2>
+
+- <b>Indian Road Safety Campaign (IRSC) | Research & Analytics </b>
+  - [Certified by MORTH (Gov. of India)](https://drive.google.com/file/d/1v2OOXCwol8U9k48KM2lbfDZU3HCW4G8U/view?usp=sharing)
+- <b>Institute of Social Responsibility & Accountability (ISRA) | Research </b>
+  - [Certified by Trustee](https://drive.google.com/file/d/1pz6zS_u9mLTWouAcia8QfRasclhDZmLX/view?usp=sharing)
   
 <h2> 🤳 Connect with me:</h2>
 

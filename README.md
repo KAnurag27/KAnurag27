@@ -6,12 +6,14 @@
    
 <h2>👨‍💻 Certifications</h2>
 
-- <b>Analyzing and Visualizing Data with Microsoft Power BI</b>
-  - [Certified by LinkedIn]
-- <b>Excel Skills for Business & Management</b>
+- <b>Microsoft Excel 365 | Essential Training </b>
+  - [Certified by LinkedIn](https://drive.google.com/file/d/1ZSjLxNp6DgmrXUc2G6ZAdU4gLqJe9kmH/view?usp=sharing)
+- <b>Microsoft Power BI | Essential Training</b>
+  - [Certified by LinkedIn](https://drive.google.com/file/d/1DTxclA4MTYPaMpJnmbd5qZ_eEe75gwah/view?usp=sharing)
+- <b>Excel Skills for Business | Intermediate</b>
   - [Certified by Macquarie University](https://drive.google.com/file/d/1u7FH7tCfFKiEHxN_KJM_JbyPj1Gnsgc7/view?usp=sharing)
-- <b>Excel Essential Training (Office 365/Microsoft 365)</b>
-  - [Certified by LinkedIn]
+- <b>Global Finance & Business Management | Virtual Experience Program</b>
+  - [Certified by JPMorgan Chase & Co.](https://drive.google.com/file/d/1VzsrCBdaCasHVF0UTSd66NUTufZELGPF/view?usp=sharing)
   
 <h2> 🤳 Connect with me:</h2>
 

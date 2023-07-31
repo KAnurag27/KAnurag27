@@ -9,7 +9,7 @@
 - <b>Analyzing and Visualizing Data with Microsoft Power BI</b>
   - [Certified by LinkedIn]
 - <b>Excel Skills for Business & Management</b>
-  - [Certified by J.P. Morgan Private Bank]
+  - [Certified by Macquarie University](https://drive.google.com/file/d/1u7FH7tCfFKiEHxN_KJM_JbyPj1Gnsgc7/view?usp=sharing)
 - <b>Excel Essential Training (Office 365/Microsoft 365)</b>
   - [Certified by LinkedIn]
   

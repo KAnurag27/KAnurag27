@@ -17,15 +17,21 @@
  
 <h2>👨‍💻 Internships</h2>
 
-- <b>Mi</b>
-  - [Certified by LinkedIn]
+- <b>Project Management Intern | Enactus Thapar, Punjab (India)</b>
+  - [Certified by Enactus, India](https://drive.google.com/drive/folders/1G9GVszahjb2Qle0J-zwYA7_cc0q1D6ZU)
+- <b>Research Intern | SheltOwn Pvt. Ltd.</b>
+  - [Certified by Project Manager](https://drive.google.com/file/d/1FKzHwRKesjHIGNh8KvVhseNDnMGeNS4w/view?usp=sharing)
+- <b>Research Intern | OrgoBell Pvt. Ltd.</b>
+  - [Certified by Co-Founder](https://drive.google.com/file/d/1hn-o6Nr5j89xP0iImbWi9U9pjLax6XP_/view?usp=sharing)
  
 <h2>👨‍💻 Volunteering</h2>
 
-- <b>Indian Road Safety Campaign (IRSC) | Research & Analytics </b>
+- <b>Indian Road Safety Campaign (IRSC) | Research & Analytics Domain</b>
   - [Certified by MORTH (Gov. of India)](https://drive.google.com/file/d/1v2OOXCwol8U9k48KM2lbfDZU3HCW4G8U/view?usp=sharing)
-- <b>Institute of Social Responsibility & Accountability (ISRA) | Research </b>
+- <b>Institute of Social Responsibility & Accountability (ISRA) | Market Research Domain</b>
   - [Certified by Trustee](https://drive.google.com/file/d/1pz6zS_u9mLTWouAcia8QfRasclhDZmLX/view?usp=sharing)
+ 
+<h2>👨‍💻 Awards/Recognitions</h2>
   
 <h2> 🤳 Connect with me:</h2>
 

@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analysis & Visualization Projects:</h2>
 
-- <b>[Coronavirus (COVID-19) Deaths](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b>
+- <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b>
 - <b>[Google Play Store]</b>
    
 <h2>👨‍💻 Certifications</h2>

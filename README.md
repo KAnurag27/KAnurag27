@@ -1,6 +1,6 @@
 <h1>Hi, I'm Anurag! <br/><a href="https://www.linkedin.com/in/anuragkamboj/">Data Analyst</a>
 
-<h2>👨‍💻 Data Analysis & Visualization Projects:</h2>
+<h2>👨‍💻 Data Analytics & Visualization Projects:</h2>
 
 - <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b>
 - <b>[Google Play Store]</b>

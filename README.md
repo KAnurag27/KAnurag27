@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Analytics & Visualization Projects:</h2>
 
+### SQL & Tableau -
+
 - <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b>
 - <b>[Google Play Store]</b>
    

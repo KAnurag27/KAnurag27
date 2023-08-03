@@ -8,6 +8,7 @@
 - <b>[Google Play Store]</b>
 
 ### Python -
+- <b>[Sales_Data EDA](https://github.com/KAnurag27/SalesData_Analysis_with_Python/tree/main) 
    
 <h2>👨‍💻 Certifications:</h2>
 

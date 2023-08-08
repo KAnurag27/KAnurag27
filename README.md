@@ -2,14 +2,9 @@
 
 <h2>👨‍💻 Data Analytics & Visualization Projects:</h2>
 
-### Python -
-- <b>[Sales_Data EDA](https://github.com/KAnurag27/SalesData_Analysis_with_Python/tree/main)
-
-### SQL -
-- <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b>
-
-### Tableau - 
-- <b>[Google Play Store](https://github.com/KAnurag27/PlayStoreData)</b>
+- <b>[Sales_Data EDA](https://github.com/KAnurag27/SalesData_Analysis_with_Python/tree/main) {Using Python & Visualization Libraries}
+- <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b> {Using SQL & Tableau}
+- <b>[Google Play Store](https://github.com/KAnurag27/PlayStoreData)</b> {Using Tableau & Microsoft Excel}
    
 <h2>👨‍💻 Certifications:</h2>
 

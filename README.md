@@ -34,7 +34,7 @@
 - <b>Institute of Social Responsibility & Accountability (ISRA) | Market Research Domain</b>
   - [Certified by Trustee](https://drive.google.com/file/d/1pz6zS_u9mLTWouAcia8QfRasclhDZmLX/view?usp=sharing)
    
-## :telephone_receiver: Contacts
+## :telephone_receiver: Contacts:
 - LinkedIn: [@anuragkamboj](https://www.linkedin.com/in/anuragkamboj/)
 - E-mail: kanurag27kamboj@gmail.com
 

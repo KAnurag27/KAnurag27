@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Data Analytics & Visualization Projects:</h2>
 
-- <b>[World Climate Change Analysis (1992-2022)]()</b> <b>{Using Tableau & Microsoft Excel}</b>
 - <b>[Sales_Data EDA](https://github.com/KAnurag27/SalesData_Analysis_with_Python/tree/main) {Using Python & Visualization Libraries}
 - <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b> {Using SQL & Tableau}
 - <b>[Google Play Store](https://github.com/KAnurag27/PlayStoreData)</b> {Using Tableau & Microsoft Excel}

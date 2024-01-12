@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Data Analytics & Visualization Projects:</h2>
 
-- <b>[Sales_Data EDA](https://github.com/KAnurag27/SalesData_Analysis_with_Python/tree/main) {Using Python & Visualization Libraries}
-- <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b> {Using SQL & Tableau}
-- <b>[Google Play Store](https://github.com/KAnurag27/PlayStoreData)</b> {Using Tableau & Microsoft Excel}
+- <b>[Sales_Data EDA](https://github.com/KAnurag27/SalesData_Analysis_with_Python/tree/main) {Python & Visualization Libraries}
+- <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b> {SQL & Tableau}
+- <b>[Supply Distribution & Performance Tracker - Area & Locality wise)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b> {SQL & Metabase}
+- <b>[Google Play Store](https://github.com/KAnurag27/PlayStoreData)</b> {Tableau & Microsoft Excel}
 
    
 <h2>:open_file_folder: Certifications:</h2>

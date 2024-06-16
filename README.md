@@ -4,7 +4,6 @@
 
 - <b>[Sales_Data EDA](https://github.com/KAnurag27/SalesData_Analysis_with_Python/tree/main) {Python & Visualization Libraries}
 - <b>[Coronavirus (COVID-19)](https://github.com/KAnurag27/COVID-PortfolioProject.git)</b> {SQL & Tableau}
-- <b>[Supply Distribution & Performance Tracker - Area & Locality wise)](https://github.com/KAnurag27/SQL-in-ChefKart.git)</b> {SQL & Metabase}
 - <b>[Google Play Store](https://github.com/KAnurag27/PlayStoreData)</b> {Tableau & Microsoft Excel}
 
    
